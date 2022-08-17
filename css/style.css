@@ -1,6 +1,7 @@
 header{
     background-color: #E6E6E6;
     text-align: center;
+    
 }
 
 h1{
@@ -8,6 +9,7 @@ h1{
     color: #005677;
     font-family: 'Times New Roman';
     text-align: center;
+    word-spacing: 0.4em;
 }
 
 h2{
@@ -30,8 +32,23 @@ span{
     background-color: #005677;
     color: #ffff;
     text-align: center;
-    
+    width:100%; 
+    position:absolute; 
+    bottom:0; 
+    left:0; 
+        
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,38 @@
+header{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    
+}
+
+span{
+    font-weight: bold;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+
+.footer{
+    background-color: #005677;
+    color: #ffff;
+    text-align: center;
+    
+}
+
+
+
+
